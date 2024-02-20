@@ -27,4 +27,7 @@ h2 {
 img {
     height: 650px;
     width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
