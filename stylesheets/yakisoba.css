@@ -1,0 +1,30 @@
+#main {
+    font-family: Verdana, Arial, "sans-serif";
+    font-size: 38px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.list {
+    font-family: Helvetica, Arial, "sans-serif";
+    font-size: 26px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+p,
+li {
+    font-family: Helvetica, Arial, "sans-serif";
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+img {
+    height: 650px;
+    width: auto;
+}

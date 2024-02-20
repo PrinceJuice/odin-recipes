@@ -1,0 +1,42 @@
+p,
+li {
+    font-size: 18px;
+    font-family: Helvetica, Arial, "sans-serif";
+}
+
+.item,
+.header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Helvetica, Arial, "sans-serif";
+}
+
+.item {
+    font-size: 20px;
+}
+
+.header {
+    font-size: 24px;
+}
+
+#main,
+#list {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Arial, "sans-serif";
+}
+
+#main {
+    font-size: 36px;
+}
+
+#list {
+    font-size: 24px;
+}
+
+img {
+    height: 750px;
+    width: auto;
+}

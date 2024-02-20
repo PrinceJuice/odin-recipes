@@ -1,0 +1,31 @@
+.header,
+.Ingredients {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Arial, "sans-serif";
+    text-align: center;
+}
+
+#words {
+    font-family: Helvetica, Arial, "sans-serif";
+}
+
+.list {
+    font-size: 28px;
+}
+
+#main {
+    font-size: 42px;
+    text-align: center;
+}
+
+img {
+    height: 650px;
+    width: auto;
+}
+
+p,
+li {
+    font-size: 18px;
+    font-family: Helvetica, Arial, "sans-serif";
+}
