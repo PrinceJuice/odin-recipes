@@ -1,4 +1,25 @@
 h1 {
-    font-family: Verdana, Arial, "sans-serif";
+    font-family: Helvetica, Verdana, Arial, "sans-serif";
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 50px;
 }
 
+body {
+    display: block;
+    background-color: #1f2937;
+    color: #cdcfd2;
+    padding: 36px 380px;
+}
+
+ul {
+    display: block;
+    font-size: 24px;
+    color: #e3b261;
+}
+
+ul a {
+    display: inline-block;
+    color: #d8b4fe;
+    padding: 8px;
+}
